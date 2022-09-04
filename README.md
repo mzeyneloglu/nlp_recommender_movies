@@ -23,11 +23,11 @@ Bunun özellikle iyi bilinen bir örneği vardır, burada **King** vektörünü 
  
 Sadece bu vektörlere bakarak, **a** ve **b**'nin birbirine daha yakın olduğunu güvenle söyleyebiliriz – ve her birini bir grafikte görselleştirirken bunu daha da net görürür.
 
-<img src="https://miro.medium.com/proxy/1*0PuxQcmsuL2pRVFJBt2cHA.png"  width="600" height="400">
+<img src="https://miro.medium.com/proxy/1*0PuxQcmsuL2pRVFJBt2cHA.png"  width="600" height="300">
 
 Vektörler **a** ve **b** orijinine yakındır, vektör **c** çok daha uzaktır.Açıkçası, **a** ve **b** birbirine daha yakındır - ve bunu Öklid mesafesini kullanarak hesaplıyoruz:
 
-<img src="https://miro.medium.com/proxy/1*X5MMsxJauDXDh3RKnJKWLQ.png"  width="800" height="400">
+<img src="https://miro.medium.com/proxy/1*X5MMsxJauDXDh3RKnJKWLQ.png"  width="800" height="200">
  
 Öklid mesafe formülü,bu formülü iki vektörümüze, **a** ve **b,** uygulamak için şunları yaparız:
 
