@@ -1,4 +1,6 @@
-Tavsiye sistemini **Vector Similarity** yapısını kullanarak gerçekleştiriyor olacağız. Peki Vector Similarity nedir ?
+# NLP Recommender Movies
+
+Bir film izlediğimizde izlediğimiz filme benzer olanları tavsiye etmesini istiyoruz bunun için  **Vector Similarity** yapısını kullanarak gerçekleştiriyor olacağız. Peki Vector Similarity nedir ?
 
 ### Vector Similarity
 
