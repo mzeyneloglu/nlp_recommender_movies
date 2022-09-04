@@ -31,7 +31,7 @@ Vektörler **a** ve **b** orijinine yakındır, vektör **c** çok daha uzaktır
  
 Öklid mesafe formülü,bu formülü iki vektörümüze, **a** ve **b,** uygulamak için şunları yaparız:
 
-<img src="https://miro.medium.com/proxy/1*nvG_GpVyjMUcMz5R7M7xHA.png"  width="600" height="300">
+<img src="https://miro.medium.com/proxy/1*nvG_GpVyjMUcMz5R7M7xHA.png"  width="800" height="200">
 
 **a** ve **b** vektörleri arasındaki Öklid mesafesinin hesaplanması ve **0,014** mesafe elde ediyoruz, **d(a, c)** için aynı hesaplamayı yapıyoruz **1.145** ve **d(b, c)** **1.136** döndürüyor. Açıkçası, **a** ve **b** Öklid uzayında daha yakındır.
 
@@ -39,7 +39,7 @@ Vektörler **a** ve **b** orijinine yakındır, vektör **c** çok daha uzaktır
 
 #### Cosine Similarity ( Kosinüs Benzerliği )
 Kosinüs benzerliği, vektör büyüklüğünden bağımsız olarak vektör oryantasyonunu dikkate alır.
-<img src="https://miro.medium.com/max/700/1*BJq5ZVsO4rpYTsmV9pIGUQ.png"  width="600" height="400">
+<img src="https://miro.medium.com/max/700/1*BJq5ZVsO4rpYTsmV9pIGUQ.png" width="800" height="200">
 
 
 Kosinüs benzerlik formülü
@@ -48,7 +48,7 @@ Bu formülde dikkat etmemiz gereken ilk şey, payın aslında hem büyüklüğü
 Paydada, garip çift dikey çubuklarımız var - bunlar 'uzunluğu' anlamına geliyor. Böylece, sizin uzunluğunuz v'nin uzunluğuyla çarpılır. Uzunluk, elbette, büyüklüğü dikkate alır.
 
 Hem büyüklüğü hem de yönü dikkate alan bir fonksiyonu alıp bunu sadece büyüklüğü dikkate alan bir fonksiyona böldüğümüzde – bu iki büyüklük ortadan kalkar ve bizi yönü büyüklükten bağımsız olarak gören bir fonksiyonla bırakır.
-<img src="https://miro.medium.com/max/700/1*SWK3921MItHvJEoefHhJsw.png"  width="600" height="400">
+<img src="https://miro.medium.com/max/700/1*SWK3921MItHvJEoefHhJsw.png"  width="800" height="200">
 
 
 Kosinüs benzerliğini normalleştirilmiş bir nokta ürünü olarak düşünebiliriz! Ve açıkça işe yarıyor. A ve b'nin kosinüs benzerliği 1'e yakındır (mükemmel):
@@ -56,7 +56,7 @@ Kosinüs benzerliğini normalleştirilmiş bir nokta ürünü olarak düşünebi
 A ve b vektörleri için kosinüs benzerliğinin hesaplanması ve a ve c'yi tekrar karşılaştırmak için kosinüs benzerliğinin **sklearn** uygulamasını kullanmak bize çok daha iyi sonuçlar verir:
 
 
-<img src="https://miro.medium.com/max/700/1*5vhMrw6lgUGQj9HtYb5W1w.png"  width="800" height="400">
+<img src="https://miro.medium.com/max/700/1*5vhMrw6lgUGQj9HtYb5W1w.png"  width="800" height="200">
 
 Vector similarity uygulamaları NLP içerisinde oldukça sık kullanılmaktadır.Bir sözcüğün bir sözcüğe yakınlığını hesaplamak gibi veya bir metin yazım işlemi gerçekleştirilirken yazılan metinlerden farklı bir sonuç elde etmek gibi bir çok örnek verebiliriz.
 
