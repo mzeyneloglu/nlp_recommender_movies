@@ -56,7 +56,7 @@ Kosinüs benzerliğini normalleştirilmiş bir nokta ürünü olarak düşünebi
 A ve b vektörleri için kosinüs benzerliğinin hesaplanması ve a ve c'yi tekrar karşılaştırmak için kosinüs benzerliğinin **sklearn** uygulamasını kullanmak bize çok daha iyi sonuçlar verir:
 
 
-<img src="https://miro.medium.com/max/700/1*5vhMrw6lgUGQj9HtYb5W1w.png"  width="600" height="400">
+<img src="https://miro.medium.com/max/700/1*5vhMrw6lgUGQj9HtYb5W1w.png"  width="800" height="400">
 
 Vector similarity uygulamaları NLP içerisinde oldukça sık kullanılmaktadır.Bir sözcüğün bir sözcüğe yakınlığını hesaplamak gibi veya bir metin yazım işlemi gerçekleştirilirken yazılan metinlerden farklı bir sonuç elde etmek gibi bir çok örnek verebiliriz.
 
